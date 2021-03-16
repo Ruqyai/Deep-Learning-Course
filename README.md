@@ -9,12 +9,12 @@ A course on deep learning methods with applications to computer vision, natural 
 - Slides [here](http://bit.ly/35RAnu0).
 ## Neural Networks
 
-- Youtube
-- Slides
-## Convolutional Neural Network
-
 - Youtube [here](https://youtu.be/JRElKcrmG94).
 - Slides [here](http://bit.ly/2-NN).
+## Convolutional Neural Network
+
+- Youtube 
+- Slides 
 ## Recurrent Neural Network
 
 - Youtube

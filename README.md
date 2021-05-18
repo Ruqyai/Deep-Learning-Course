@@ -20,8 +20,8 @@ A course on deep learning methods with applications to computer vision, natural 
 - Youtube [here](https://youtu.be/t_p8t5Uhxj0).
 - Slides [here](http://bit.ly/cnns-MENADD).
 ### Part 2
-- Youtube .
-- Slides . 
+- Youtube [here](https://youtu.be/7eYtta3_Bks).
+- Slides [here](http://bit.ly/MENA_CNN_P2). 
 ### Part 3
 - Youtube .
 - Slides .

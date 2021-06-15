@@ -23,11 +23,15 @@ A course on deep learning methods with applications to computer vision, natural 
 - Youtube [here](https://youtu.be/7eYtta3_Bks).
 - Slides [here](http://bit.ly/MENA_CNN_P2). 
 ### Part 3
-- Youtube .
-- Slides .
+- Youtube [here](https://youtu.be/WDNZ7alX_-0).
+- Slides [here](https://bit.ly/2TZhPVy) .  
+- LeNet-5 [![alt text](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/Ruqyai/MENADD-DL/blob/main/CNN/mnist_LeNet_5.ipynb) 
+- Object_detection [![alt text](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/Ruqyai/MENADD-DL/blob/main/CNN/Object_detection_Using%20pretrained%20model.ipynb)
+- Object Segmentation [![alt text](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/Ruqyai/MENADD-DL/blob/main/CNN/MaskRCNN_Using_pretrained_model.ipynb)
+
 ## Recurrent Neural Network
 
-- Youtube
+- Youtube 
 - Slides
 ## Generative Adversarial Networks
 

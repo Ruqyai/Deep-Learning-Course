@@ -1,6 +1,7 @@
 # MENADD-DL
 
 A course on deep learning methods with applications to computer vision, natural language processing . you will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. 
+# [Playlist](https://youtube.com/playlist?list=PLagTHqjiJocBYMmmZkf_UmXz65kr2itke)
 
 ## Welcome to Deep Learning Course and Orientation
 

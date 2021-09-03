@@ -35,17 +35,17 @@ A course on deep learning methods with applications to computer vision, natural 
 - Youtube [here](https://youtu.be/x2pUbRrzQAU).
 - Slides [here](https://bit.ly/3k8ImcG).
 ### Part 2
-- Youtube
-- Slides 
+- Youtube [soon]
+- Slides [soon]
 ### Part 3
-- Youtube 
-- Slides 
+- Youtube [soon]
+- Slides [soon]
 ## Generative Adversarial Networks
 
-- Youtube
-- Slides
+- Youtube [soon]
+- Slides [soon]
 ## Natural Language Processing
 
-- Youtube
-- Slides
+- Youtube [soon]
+- Slides [soon]
 

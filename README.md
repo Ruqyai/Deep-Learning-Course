@@ -35,8 +35,8 @@ A course on deep learning methods with applications to computer vision, natural 
 - Youtube [here](https://youtu.be/x2pUbRrzQAU).
 - Slides [here](https://bit.ly/3k8ImcG).
 ### Part 2
-- Youtube [soon]
-- Slides [soon]
+- Youtube [here](https://youtu.be/OanJbIcLlsc).
+- Slides [here](https://bit.ly/2XdZ6as).
 ### Part 3
 - Youtube [soon]
 - Slides [soon]

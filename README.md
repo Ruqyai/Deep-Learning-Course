@@ -45,8 +45,9 @@ A course on deep learning methods with applications to computer vision, natural 
 - Music Generator [![alt text](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/Ruqyai/MENADD-DL/blob/main/RNN/Music_Generator.ipynb)
 ## Generative Adversarial Networks
 
-- Youtube [soon]
-- Slides [soon]
+- Youtube [here](https://youtu.be/uf7BUEvJMPw).  
+- Slides [here]( https://bit.ly/3mU5qyd).
+- Simple Example [![alt text](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/Ruqyai/MENADD-DL/blob/main/GAN/Implementing_GAN.ipynb) 
 ## Natural Language Processing
 
 - Youtube [soon]
